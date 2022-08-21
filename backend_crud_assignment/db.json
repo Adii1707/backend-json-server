@@ -1,0 +1,112 @@
+{
+  "user": [
+    {
+      "name": "Vijay Shekhar Sharma",
+      "batch": "fw18",
+      "course": "Full Stack Web Development",
+      "age": "25",
+      "mobile": "456543434",
+      "evScore": "9",
+      "id": 1661079991357
+    },
+    {
+      "name": "Vijay ",
+      "batch": "fw18",
+      "course": "Data Analyst",
+      "age": "222",
+      "mobile": "456543434",
+      "evScore": "6",
+      "id": 1661080021636
+    },
+    {
+      "name": "rahul",
+      "batch": "fw18",
+      "course": "Data Scientest",
+      "age": "24",
+      "mobile": "456543434",
+      "evScore": "6",
+      "id": 1661080048852
+    },
+    {
+      "name": "raaj",
+      "batch": "fw17",
+      "course": "Full Stack Web Development",
+      "age": "28",
+      "mobile": "456543434",
+      "evScore": "9",
+      "id": 1661080067396
+    },
+    {
+      "name": "Rishi singh",
+      "batch": "fw17",
+      "course": "Full Stack Web Development",
+      "age": "23",
+      "mobile": "456543434",
+      "evScore": "8",
+      "id": 1661080087772
+    },
+    {
+      "name": "aniket",
+      "batch": "fw17",
+      "course": "Data Analyst",
+      "age": "24",
+      "mobile": "456543434",
+      "evScore": "7",
+      "id": 1661080112500
+    },
+    {
+      "name": "pawan ",
+      "batch": "fw18",
+      "course": "Data Scientest",
+      "age": "23",
+      "mobile": "456543434",
+      "evScore": "9",
+      "id": 1661080130836
+    },
+    {
+      "name": "monu",
+      "batch": "fw18",
+      "course": "Full Stack Web Development",
+      "age": "23",
+      "mobile": "456543434",
+      "evScore": "9",
+      "id": 1661080142164
+    },
+    {
+      "name": "mayank sharma",
+      "batch": "fw18",
+      "course": "Data Scientest",
+      "age": "22",
+      "mobile": "456543434",
+      "evScore": "9",
+      "id": 1661080155660
+    },
+    {
+      "name": "Aditya Singh Ghosh",
+      "batch": "fw18",
+      "course": "Full Stack Web Development",
+      "age": "20",
+      "mobile": "456543434",
+      "evScore": "9",
+      "id": 1661080173260
+    },
+    {
+      "name": "radha",
+      "batch": "fw18",
+      "course": "Data Analyst",
+      "age": "19",
+      "mobile": "45654343443",
+      "evScore": "9",
+      "id": 1661080207900
+    },
+    {
+      "name": "krishna",
+      "batch": "fw18",
+      "course": "Full Stack Web Development",
+      "age": "18",
+      "mobile": "45654343443",
+      "evScore": "9",
+      "id": 1661080227701
+    }
+  ]
+}
